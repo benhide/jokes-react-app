@@ -1,0 +1,144 @@
+.navbar {
+  background-color: rgba(112, 76, 182, 0.1);
+  border: 2px solid rgba(112, 76, 182, 0.4);
+  border-radius: 10px;
+  width: calc(100% - 30px);
+  margin: 10px;
+  text-align: center;
+}
+
+.navBarSection {
+  width: calc(100% - 30px);
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.subHeaderText {
+  font-size: 22px;
+  text-align: center;
+  color: rgb(112, 76, 182);
+}
+
+.section {
+  width: calc(100% - 30px);
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid rgba(112, 76, 182, 0.4);
+  background-color: rgba(112, 76, 182, 0.1);
+  color: rgb(112, 76, 182);
+}
+
+.categories,
+.search {
+  width: calc(100% - 30px);
+  align-items: center;
+  justify-content: center;
+  border: 2px solid rgba(112, 76, 182, 0.4);
+  background-color: rgba(112, 76, 182, 0.1);
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.h3 {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(112, 76, 182);
+}
+
+.button {
+  max-width: 200px;
+  min-width: 200px;
+  appearance: none;
+  background: none;
+  font-size: 22px;
+  padding-left: 12px;
+  padding-right: 12px;
+  outline: none;
+  border: 2px solid transparent;
+  color: rgb(112, 76, 182);
+  padding-bottom: 4px;
+  cursor: pointer;
+  background-color: rgba(112, 76, 182, 0.1);
+  transition: all 0.15s;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.categoryDropdown {
+  max-width: 400px;
+  min-width: 400px;
+  appearance: none;
+  background: none;
+  font-size: 22px;
+  padding-left: 12px;
+  padding-right: 12px;
+  outline: none;
+  border: 2px solid transparent;
+  color: rgb(112, 76, 182);
+  padding-bottom: 4px;
+  cursor: pointer;
+  background-color: rgba(112, 76, 182, 0.1);
+  border-radius: 2px;
+  margin: 10px;
+}
+
+.navButton {
+  max-width: 150px;
+  min-width: 100px;
+  appearance: none;
+  background: none;
+  font-size: 22px;
+  padding-left: 12px;
+  padding-right: 12px;
+  outline: none;
+  color: rgb(112, 76, 182);
+  padding-bottom: 4px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.textbox {
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  padding: 2px;
+  width: calc(100% - 30px);
+  margin: 10px;
+  border: 2px solid rgba(112, 76, 182, 0.4);
+}
+
+.infoText {
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  padding: 2px;
+  width: 100%;
+  margin: 10px;
+}
+
+.button:hover,
+.button:focus {
+  border: 2px solid rgba(112, 76, 182, 0.4);
+}
+
+.button:active {
+  background-color: rgba(112, 76, 182, 0.2);
+}
+
+.headerText {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(112, 76, 182);
+}
+
+.article {
+  background-color: rgba(112, 76, 182, 0.2);
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  border: 2px solid rgba(112, 76, 182, 0.4);
+}
